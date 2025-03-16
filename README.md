@@ -11,7 +11,7 @@ This repository contains a **Convolutional Neural Network (CNN)** model trained 
 Download the model file **[`mnist_cnn.h5`](mnist_cnn.h5)**
 
 ### **Option 2: Download from Google Drive**
-[Click here to download the model](PASTE_GOOGLE_DRIVE_LINK_HERE).
+[Click here to download the model](https://drive.google.com/file/d/1Uwe6z9xnAw0FBZhFNtLxGWuorrsv4TCK/view?usp=drive_link).
 
 ## 🚀 How to Use
 ### **1️⃣ Clone this Repository**
